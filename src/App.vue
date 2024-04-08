@@ -9,7 +9,7 @@ import VTab from './components/tabs/VTab.vue'
       <h1 class="text-2xl font-bold text-center mb-10">
         Examples of Vue 3 components for copy-pasting into your project 😉
       </h1>
-      <h2 class="text-xl font-bold mb-8">Tabs</h2>
+      <h2 class="text-xl font-bold mb-8" id="tabs">Tabs</h2>
       <VTabs>
         <VTab title="Tab 1">Content 1</VTab>
         <VTab title="Tab 2">Content 2</VTab>
